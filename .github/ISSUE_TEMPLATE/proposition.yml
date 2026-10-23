@@ -1,0 +1,41 @@
+name: Proposition
+description: Changer une règle, une étape ou une formulation de la méthode.
+title: "Proposition : "
+labels: ["proposition"]
+body:
+  - type: dropdown
+    id: fichier
+    attributes:
+      label: Où ?
+      options:
+        - guide.md (la méthode)
+        - organiser.md (le kit de l'organisateur)
+        - Un carton à imprimer
+        - Autre
+    validations:
+      required: true
+  - type: textarea
+    id: actuel
+    attributes:
+      label: Le texte actuel
+      description: Copiez le passage concerné.
+  - type: textarea
+    id: propose
+    attributes:
+      label: Ce que vous proposez
+    validations:
+      required: true
+  - type: textarea
+    id: pourquoi
+    attributes:
+      label: Pourquoi
+      description: Une expérience d'atelier, une étude… Pour un chiffre, donnez le lien vers l'étude et ce que vous y avez lu (pays, nombre de personnes, durée de l'effet).
+    validations:
+      required: true
+  - type: checkboxes
+    id: licence
+    attributes:
+      label: Licence
+      options:
+        - label: J'ai écrit ce texte moi-même (ou il est sous une licence compatible) et j'accepte qu'il soit publié sous CC BY-SA 4.0.
+          required: true

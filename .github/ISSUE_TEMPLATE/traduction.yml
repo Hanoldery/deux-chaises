@@ -1,0 +1,35 @@
+name: Traduction
+description: Traduire la méthode dans une autre langue.
+title: "Traduction : "
+labels: ["traduction"]
+body:
+  - type: input
+    id: langue
+    attributes:
+      label: Langue
+      placeholder: "Allemand, breton, arabe…"
+    validations:
+      required: true
+  - type: dropdown
+    id: quoi
+    attributes:
+      label: Ce que vous voulez traduire
+      multiple: true
+      options:
+        - guide.md (la méthode)
+        - organiser.md (le kit de l'organisateur)
+        - Les cartons à imprimer
+    validations:
+      required: true
+  - type: textarea
+    id: contexte
+    attributes:
+      label: Pour qui, et où ?
+      description: Le public, le pays ou la région, un lieu qui l'utilisera.
+  - type: checkboxes
+    id: licence
+    attributes:
+      label: Licence
+      options:
+        - label: J'accepte que ma traduction soit publiée sous CC BY-SA 4.0, avec le crédit « D'après Deux chaises, REX club ».
+          required: true

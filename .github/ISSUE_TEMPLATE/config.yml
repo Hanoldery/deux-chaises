@@ -1,0 +1,6 @@
+# Formulaires de tickets (GitHub). contact : contact@pierre.gd
+blank_issues_enabled: false
+contact_links:
+  - name: Écrire à l'équipe (sans compte GitHub)
+    url: mailto:contact@pierre.gd
+    about: Pour un retour, une question ou un signalement, sans ouvrir de ticket public.

@@ -1,0 +1,48 @@
+name: Retour d'atelier
+description: Vous avez organisé une rencontre Deux chaises ; racontez-nous.
+title: "Retour d'atelier : "
+labels: ["retour d'atelier"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci ! Ce ticket est public : n'écrivez aucun nom de participant, ni ce qu'une personne a dit ou pense.
+  - type: input
+    id: lieu
+    attributes:
+      label: Type de lieu et taille de la commune
+      placeholder: "Médiathèque, commune de 8 000 habitants"
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date de la rencontre
+      placeholder: "21/11/2026"
+  - type: input
+    id: participants
+    attributes:
+      label: Nombre de participants et de tables
+      placeholder: "14 personnes, 7 tables"
+  - type: textarea
+    id: marche
+    attributes:
+      label: Ce qui a marché
+    validations:
+      required: true
+  - type: textarea
+    id: coince
+    attributes:
+      label: Ce qui a coincé
+      description: Une étape trop longue, une règle mal comprise, une paire qui a dérapé…
+  - type: textarea
+    id: changer
+    attributes:
+      label: Ce que vous changeriez dans la méthode
+  - type: checkboxes
+    id: regles
+    attributes:
+      label: Code de conduite
+      options:
+        - label: Je n'ai mis aucune information qui permette de reconnaître un participant.
+          required: true
