@@ -20,7 +20,7 @@ Les deux textes source sont [guide.md](guide.md) (la méthode) et [organiser.md]
 2. Modifiez le texte. Gardez la forme : les titres `##`, les listes, le gras `**…**`, le tableau du déroulé.
 3. En bas, décrivez votre changement en une phrase, puis **Propose changes**.
 
-Les cartons à imprimer (`cartons/`) et le README sont produits à partir de ces deux fichiers : ne les modifiez pas, ils seront remis à jour. Une fois votre proposition acceptée, elle passe telle quelle sur le site Deux chaises, sans être retapée.
+Les cartons à imprimer (`cartons/`), les images (`images/`) et le README sont produits à partir de ces deux fichiers : ne les modifiez pas, ils seront remis à jour. Pour changer ce que dit une image, changez le texte : l'image suivra. Une fois votre proposition acceptée, elle passe telle quelle sur le site Deux chaises, sans être retapée.
 
 ## Ce qui entre doit pouvoir ressortir
 
