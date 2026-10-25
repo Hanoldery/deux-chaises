@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="361" viewBox="0 0 1200 361" role="img" aria-labelledby="chiffres-t chiffres-d" font-family="Atkinson Hyperlegible, Verdana, 'DejaVu Sans', sans-serif">
+<title id="chiffres-t">Pourquoi ça marche</title>
+<desc id="chiffres-d">Pourquoi ça marche : 1 conversation en tête-à-tête avec quelqu&apos;un d&apos;en face a réduit les préjugés sur l&apos;autre camp, sans faire changer d&apos;avis ; +9 points sur 100 de sympathie pour les électeurs d&apos;en face, après 12 minutes à parler de sa « journée parfaite » ; 4 mois après, l&apos;effet d&apos;un échange de récits personnels sur les préjugés tenait encore ; les arguments seuls n&apos;avaient rien changé.</desc>
+<rect width="1200" height="361" fill="#FBF8F3"/>
+<g>
+<rect x="20" y="20" width="370.6666666666667" height="321" rx="18" fill="#FFFFFF" stroke="#F1EADF" stroke-width="3"/>
+<rect x="20" y="20" width="370.6666666666667" height="10" rx="5" fill="#8A4B0F"/>
+<text x="48" y="84" font-size="30" font-weight="700" fill="#8A4B0F">1 conversation</text>
+<text x="48" y="124" font-size="20" fill="#1F2328">en tête-à-tête avec</text>
+<text x="48" y="152" font-size="20" fill="#1F2328">quelqu&apos;un d&apos;en face a réduit</text>
+<text x="48" y="180" font-size="20" fill="#1F2328">les préjugés sur l&apos;autre</text>
+<text x="48" y="208" font-size="20" fill="#1F2328">camp, sans faire changer</text>
+<text x="48" y="236" font-size="20" fill="#1F2328">d&apos;avis.</text>
+<path d="M48 262h56" stroke="#8A4B0F" stroke-width="3" stroke-linecap="round"/>
+<text x="48" y="294" font-size="16" font-weight="700" fill="#5C5F66">Fang, Heuser &amp; Stötzer, J.</text>
+<text x="48" y="315" font-size="16" font-weight="700" fill="#5C5F66">Public Econ., 2025</text>
+</g>
+<g>
+<rect x="414.6666666666667" y="20" width="370.6666666666667" height="321" rx="18" fill="#FFFFFF" stroke="#F1EADF" stroke-width="3"/>
+<rect x="414.6666666666667" y="20" width="370.6666666666667" height="10" rx="5" fill="#8A4B0F"/>
+<text x="442.6666666666667" y="84" font-size="30" font-weight="700" fill="#8A4B0F">+9 points sur 100</text>
+<text x="442.6666666666667" y="124" font-size="20" fill="#1F2328">de sympathie pour les</text>
+<text x="442.6666666666667" y="152" font-size="20" fill="#1F2328">électeurs d&apos;en face, après</text>
+<text x="442.6666666666667" y="180" font-size="20" fill="#1F2328">12 minutes à parler de sa</text>
+<text x="442.6666666666667" y="208" font-size="20" fill="#1F2328">« journée parfaite ».</text>
+<path d="M442.6666666666667 262h56" stroke="#8A4B0F" stroke-width="3" stroke-linecap="round"/>
+<text x="442.6666666666667" y="294" font-size="16" font-weight="700" fill="#5C5F66">Santoro &amp; Broockman, Science</text>
+<text x="442.6666666666667" y="315" font-size="16" font-weight="700" fill="#5C5F66">Advances, 2022</text>
+</g>
+<g>
+<rect x="809.3333333333334" y="20" width="370.6666666666667" height="321" rx="18" fill="#FFFFFF" stroke="#F1EADF" stroke-width="3"/>
+<rect x="809.3333333333334" y="20" width="370.6666666666667" height="10" rx="5" fill="#8A4B0F"/>
+<text x="837.3333333333334" y="84" font-size="30" font-weight="700" fill="#8A4B0F">4 mois</text>
+<text x="837.3333333333334" y="124" font-size="20" fill="#1F2328">après, l&apos;effet d&apos;un échange</text>
+<text x="837.3333333333334" y="152" font-size="20" fill="#1F2328">de récits personnels sur les</text>
+<text x="837.3333333333334" y="180" font-size="20" fill="#1F2328">préjugés tenait encore ; les</text>
+<text x="837.3333333333334" y="208" font-size="20" fill="#1F2328">arguments seuls n&apos;avaient</text>
+<text x="837.3333333333334" y="236" font-size="20" fill="#1F2328">rien changé.</text>
+<path d="M837.3333333333334 262h56" stroke="#8A4B0F" stroke-width="3" stroke-linecap="round"/>
+<text x="837.3333333333334" y="294" font-size="16" font-weight="700" fill="#5C5F66">Kalla &amp; Broockman, APSR, 2020</text>
+</g>
+</svg>

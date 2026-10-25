@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="727" viewBox="0 0 1200 727" role="img" aria-labelledby="regles-t regles-d" font-family="Atkinson Hyperlegible, Verdana, 'DejaVu Sans', sans-serif">
+<title id="regles-t">Les 7 règles de table</title>
+<desc id="regles-d">Les 7 règles de table : Écoutez pour comprendre, pas pour répondre ; Racontez une expérience, pas un argument ; Posez des questions sincères ; Personne n&apos;a à convaincre ni à changer d&apos;avis ; Ce qui est dit reste à la table ; Partagez le temps de parole ; Pas d&apos;insulte, même en colère.</desc>
+<rect width="1200" height="727" fill="#FBF8F3"/>
+<g>
+<rect x="20" y="20" width="568" height="164" rx="18" fill="#FFFFFF" stroke="#F1EADF" stroke-width="3"/>
+<circle cx="82" cy="84" r="38" fill="#8A4B0F"/>
+<g transform="translate(58 60)"><g fill="none" stroke="#FBF8F3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M14 22C14 12 20 7 26 7C33 7 37 12 37 18C37 25 31 27 30 33C29 39 24 42 19 40"/><path d="M22 20C22 15 29 15 29 20C29 24 26 25 25 28"/></g></g>
+<circle cx="116" cy="48" r="15" fill="#FFFFFF" stroke="#8A4B0F" stroke-width="3"/>
+<text x="116" y="54" font-size="18" font-weight="700" fill="#8A4B0F" text-anchor="middle">1</text>
+<text x="138" y="58" font-size="22" font-weight="700" fill="#1F2328">Écoutez pour comprendre, pas</text>
+<text x="138" y="87" font-size="22" font-weight="700" fill="#1F2328">pour répondre.</text>
+<text x="138" y="120" font-size="18" fill="#5C5F66">Laissez l&apos;autre finir. Ne préparez pas</text>
+<text x="138" y="144" font-size="18" fill="#5C5F66">votre réponse pendant qu&apos;il parle.</text>
+</g>
+<g>
+<rect x="612" y="20" width="568" height="164" rx="18" fill="#FFFFFF" stroke="#F1EADF" stroke-width="3"/>
+<circle cx="674" cy="84" r="38" fill="#8A4B0F"/>
+<g transform="translate(650 60)"><g fill="none" stroke="#FBF8F3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M8 10h32a3 3 0 0 1 3 3v18a3 3 0 0 1-3 3H25l-9 8v-8H8a3 3 0 0 1-3-3V13a3 3 0 0 1 3-3z"/><path d="M13 19h22M13 26h13"/></g></g>
+<circle cx="708" cy="48" r="15" fill="#FFFFFF" stroke="#8A4B0F" stroke-width="3"/>
+<text x="708" y="54" font-size="18" font-weight="700" fill="#8A4B0F" text-anchor="middle">2</text>
+<text x="730" y="58" font-size="22" font-weight="700" fill="#1F2328">Racontez une expérience, pas un</text>
+<text x="730" y="87" font-size="22" font-weight="700" fill="#1F2328">argument.</text>
+<text x="730" y="120" font-size="18" fill="#5C5F66">« Moi, j&apos;ai vécu… » marche mieux que « les</text>
+<text x="730" y="144" font-size="18" fill="#5C5F66">chiffres prouvent… ». Parlez en « je ».</text>
+</g>
+<g>
+<rect x="20" y="208" width="568" height="164" rx="18" fill="#FFFFFF" stroke="#F1EADF" stroke-width="3"/>
+<circle cx="82" cy="272" r="38" fill="#8A4B0F"/>
+<g transform="translate(58 248)"><g fill="none" stroke="#FBF8F3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M16 17a8 8 0 1 1 11 7c-2 1.5-3 3-3 6"/><circle cx="24" cy="39" r="2.4" fill="#FBF8F3" stroke="none"/></g></g>
+<circle cx="116" cy="236" r="15" fill="#FFFFFF" stroke="#8A4B0F" stroke-width="3"/>
+<text x="116" y="242" font-size="18" font-weight="700" fill="#8A4B0F" text-anchor="middle">3</text>
+<text x="138" y="246" font-size="22" font-weight="700" fill="#1F2328">Posez des questions sincères.</text>
+<text x="138" y="279" font-size="18" fill="#5C5F66">« Qu&apos;est-ce qui vous a amené à penser</text>
+<text x="138" y="303" font-size="18" fill="#5C5F66">ça ? » Une vraie question, pas un piège.</text>
+</g>
+<g>
+<rect x="612" y="208" width="568" height="164" rx="18" fill="#FFFFFF" stroke="#F1EADF" stroke-width="3"/>
+<circle cx="674" cy="272" r="38" fill="#8A4B0F"/>
+<g transform="translate(650 248)"><g fill="none" stroke="#FBF8F3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="17.5" cy="24" r="12"/><circle cx="30.5" cy="24" r="12"/></g></g>
+<circle cx="708" cy="236" r="15" fill="#FFFFFF" stroke="#8A4B0F" stroke-width="3"/>
+<text x="708" y="242" font-size="18" font-weight="700" fill="#8A4B0F" text-anchor="middle">4</text>
+<text x="730" y="246" font-size="22" font-weight="700" fill="#1F2328">Personne n&apos;a à convaincre ni à</text>
+<text x="730" y="275" font-size="22" font-weight="700" fill="#1F2328">changer d&apos;avis.</text>
+<text x="730" y="308" font-size="18" fill="#5C5F66">Ne pas être d&apos;accord est normal. On ne</text>
+<text x="730" y="332" font-size="18" fill="#5C5F66">juge pas la personne.</text>
+</g>
+<g>
+<rect x="20" y="396" width="568" height="159" rx="18" fill="#FFFFFF" stroke="#F1EADF" stroke-width="3"/>
+<circle cx="82" cy="460" r="38" fill="#8A4B0F"/>
+<g transform="translate(58 436)"><g fill="none" stroke="#FBF8F3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="10" y="21" width="28" height="20" rx="4"/><path d="M16 21v-5a8 8 0 0 1 16 0v5"/><circle cx="24" cy="31" r="2.4" fill="#FBF8F3" stroke="none"/></g></g>
+<circle cx="116" cy="424" r="15" fill="#FFFFFF" stroke="#8A4B0F" stroke-width="3"/>
+<text x="116" y="430" font-size="18" font-weight="700" fill="#8A4B0F" text-anchor="middle">5</text>
+<text x="138" y="434" font-size="22" font-weight="700" fill="#1F2328">Ce qui est dit reste à la table.</text>
+<text x="138" y="467" font-size="18" fill="#5C5F66">Chacun peut faire une pause ou arrêter à</text>
+<text x="138" y="491" font-size="18" fill="#5C5F66">tout moment, sans se justifier.</text>
+</g>
+<g>
+<rect x="612" y="396" width="568" height="159" rx="18" fill="#FFFFFF" stroke="#F1EADF" stroke-width="3"/>
+<circle cx="674" cy="460" r="38" fill="#8A4B0F"/>
+<g transform="translate(650 436)"><g fill="none" stroke="#FBF8F3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M24 8v30M13 40h22M9 14h30M9 14l-5 12h10zM39 14l-5 12h10z"/></g></g>
+<circle cx="708" cy="424" r="15" fill="#FFFFFF" stroke="#8A4B0F" stroke-width="3"/>
+<text x="708" y="430" font-size="18" font-weight="700" fill="#8A4B0F" text-anchor="middle">6</text>
+<text x="730" y="434" font-size="22" font-weight="700" fill="#1F2328">Partagez le temps de parole.</text>
+<text x="730" y="467" font-size="18" fill="#5C5F66">Vos deux vies comptent autant. Si vous</text>
+<text x="730" y="491" font-size="18" fill="#5C5F66">parlez beaucoup, laissez de la place à</text>
+<text x="730" y="515" font-size="18" fill="#5C5F66">l&apos;autre.</text>
+</g>
+<g>
+<rect x="20" y="579" width="1160" height="128" rx="18" fill="#FFFFFF" stroke="#F1EADF" stroke-width="3"/>
+<circle cx="82" cy="643" r="38" fill="#8A4B0F"/>
+<g transform="translate(58 619)"><g fill="none" stroke="#FBF8F3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M8 10h32a3 3 0 0 1 3 3v18a3 3 0 0 1-3 3H25l-9 8v-8H8a3 3 0 0 1-3-3V13a3 3 0 0 1 3-3z"/><path d="M19 16l10 12M29 16L19 28"/></g></g>
+<circle cx="116" cy="607" r="15" fill="#FFFFFF" stroke="#8A4B0F" stroke-width="3"/>
+<text x="116" y="613" font-size="18" font-weight="700" fill="#8A4B0F" text-anchor="middle">7</text>
+<text x="138" y="617" font-size="22" font-weight="700" fill="#1F2328">Pas d&apos;insulte, même en colère.</text>
+<text x="138" y="650" font-size="18" fill="#5C5F66">Dire sa colère, oui. Insulter, menacer ou attaquer, non. Si ça chauffe, faites une pause.</text>
+</g>
+</svg>

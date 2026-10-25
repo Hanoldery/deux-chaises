@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="129" height="26" viewBox="0 0 129 26" role="img" aria-labelledby="badge-version-t badge-version-d" font-family="Atkinson Hyperlegible, Verdana, 'DejaVu Sans', sans-serif">
+<title id="badge-version-t">Version : 1.0.0</title>
+<desc id="badge-version-d">Version : 1.0.0</desc>
+<rect width="72" height="26" rx="5" fill="#5C5F66"/>
+<rect x="67" width="62" height="26" rx="5" fill="#8A4B0F"/>
+<rect x="67" width="5" height="26" fill="#8A4B0F"/>
+<g font-size="13" fill="#FFFFFF" text-anchor="middle" font-weight="700"><text x="36" y="18">Version</text><text x="100.5" y="18">1.0.0</text></g>
+</svg>

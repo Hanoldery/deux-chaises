@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="banniere-t banniere-d" font-family="Atkinson Hyperlegible, Verdana, 'DejaVu Sans', sans-serif">
+<title id="banniere-t">La méthode : Deux chaises</title>
+<desc id="banniere-d">Deux chaises face à face. Deux chaises : la méthode. Une heure et demie en tête-à-tête avec quelqu&apos;un qui ne pense pas comme vous.</desc>
+<rect width="1200" height="340" fill="#FBF8F3"/>
+<rect width="380" height="340" fill="#8A4B0F"/>
+<g fill="#FBF8F3" transform="translate(46 70) scale(2.4)"><g><rect x="6" y="2" width="7" height="66" rx="3.5"/><rect x="6" y="36" width="44" height="7" rx="3.5"/><rect x="43" y="36" width="7" height="32" rx="3.5"/></g><g transform="translate(120 0) scale(-1 1)"><rect x="6" y="2" width="7" height="66" rx="3.5"/><rect x="6" y="36" width="44" height="7" rx="3.5"/><rect x="43" y="36" width="7" height="32" rx="3.5"/></g></g>
+<rect x="46" y="250" width="288" height="4" rx="2" fill="#FBF8F3" opacity=".55"/>
+<text x="440" y="112" font-size="62" font-weight="700" fill="#1F2328">Deux chaises :</text>
+<text x="440" y="180" font-size="62" font-weight="700" fill="#8A4B0F">la méthode</text>
+<text x="440" y="232" font-size="27" fill="#5C5F66">Une heure et demie en tête-à-tête avec</text>
+<text x="440" y="268" font-size="27" fill="#5C5F66">quelqu&apos;un qui ne pense pas comme vous</text>
+</svg>
